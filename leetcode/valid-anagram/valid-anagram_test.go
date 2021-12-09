@@ -1,4 +1,4 @@
-package validanagram_test
+package validanagram
 
 import (
 	"fmt"
