@@ -7,5 +7,5 @@ _________________________________________
 
 ___________________________________________
 
-### project euler
+### project euler - algoritm
 <link> https://projecteuler.net/progress
