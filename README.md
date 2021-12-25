@@ -1,4 +1,4 @@
-## competitive - programming - solution
+## ADS - programming - solution
 
 _________________________________________
 
