@@ -13,3 +13,4 @@ ___________________________________________
 _____________________________________
 #### Printing different patterns using Golang Programming – Triangle, Pyramid, Numbers, Diamond
 <link> https://compilethecode.com/printing-different-patterns-using-golang-programm-triangle-pyramid-numbers-diamond/
+<link> https://github.com/viaaulia/golang-tes-pola
